@@ -3,4 +3,4 @@
 </p>
 
 
-# Diplomado-en-Ciencia-de-Datos-para-la-Toma-de-Decisiones-Estrategicas-202501
+# Diplomado en Ciencia de Datos para la Toma de Decisiones Estrategicas 2025-01
